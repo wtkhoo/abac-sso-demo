@@ -6,7 +6,7 @@ This folder contains a simple project for deploying AWS environment to demonstra
 
 The Terraform code will deploy the AWS resources as depicted in this high level architecture diagram:
 
-![Demo architecture](https://blog.wkhoo.com/images/abac-demo-architecture_hub0dae61597e51fc64d3d42a5e8102186_82233_800x640_fit_q50_box.jpeg)
+![Demo architecture](https://blog.wkhoo.com/images/abac-demo-architecture_hu454f427f895a4c219dfde62861304665_82364_800x640_fit_q50_box.jpeg)
 
 > **Important note:** Deploying the demo environment may incur some cost in your AWS account.
 
